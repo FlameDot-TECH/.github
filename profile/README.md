@@ -2,7 +2,7 @@
 🔥 欢迎来到焰点科技 FlameDot.TECH
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9afc4130-054e-4aa5-9d6c-ce12bcf9b2e5" alt="FlameDot.TECH Logo" width="120">
+  <img src="https://github.com/user-attachments/assets/9afc4130-054e-4aa5-9d6c-ce12bcf9b2e5" alt="FlameDot.TECH Logo" width="60%">
   <h1>焰点科技 </br> FlameDot.TECH</h1>
   <p>点燃智能未来 · 照亮创新边界</p>
   
