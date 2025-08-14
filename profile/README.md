@@ -1,6 +1,5 @@
 
 🔥 欢迎来到焰点科技 FlameDot.TECH
-<img width="7884" height="2456" alt="容器 17@2x" src="https://github.com/user-attachments/assets/9afc4130-054e-4aa5-9d6c-ce12bcf9b2e5" />
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9afc4130-054e-4aa5-9d6c-ce12bcf9b2e5" alt="FlameDot.TECH Logo" width="120">
